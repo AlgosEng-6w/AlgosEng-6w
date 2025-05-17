@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 
 ## About me
-- 💻 Machine Learning, Operating Systems for Beginners
+- 💻 Beginners in machine learning and operating systems
 - 🏫 In college study
-- 📶 Plan to learn Linux operating system
 
-Hello! I'm AlgosEng! A rookie who wants to become a big boss ~  
-I have been walking on the Internet for almost 1 years~  
-I am not talented, but I am willing to improve together with everyone.  
+Hello! I'm AlgosEng-6w! A rookie who wants to become a big boss ~  
+Everything has a season, and we can all bloom whenever it's our time ~
 Welcome to make friends with me

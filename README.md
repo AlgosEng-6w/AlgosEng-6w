@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 Hello! I'm AlgosEng! A rookie who wants to become a big boss ~  
 I have been walking on the Internet for almost 1 years~  
 I am not talented, but I am willing to improve together with everyone.  
-Welcome to learn and progress with me
+Welcome to make friends with me

@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 Welcome to make friends with me
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=AlgosEng-6w&amp;layout=compact&amp;theme=tokyonight)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=AlgosEng-6w&amp;layout=compact&amp;theme=default)
 

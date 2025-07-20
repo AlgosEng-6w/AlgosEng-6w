@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align='center'>
-  <h1>Hello! 👋 I'm AlgosEng-6w!</h1>
+  <h1>Hello! 👋 I'm Stryxel!</h1>
   <p>Everything has a season, and we can all bloom whenever it's our time ~</p>
 </div>
 
